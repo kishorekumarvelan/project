@@ -1,0 +1,62 @@
+
+h2{
+    color: red;
+    text-align: center;
+}
+body{
+    background-image: url("pexels-pixabay-280221.jpg");
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+       
+}
+.regform{
+    width: 300px;
+    background-color: rgba(0, 0, 0, .5);
+    margin:250px auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+    padding: 10px 20px 30px;
+    border-radius: 10px;
+
+}
+.regform label.textlabel{
+    display: block;
+}
+.input input{
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid lightblue;
+    padding: 10px 10px;
+    box-shadow: 1px;
+    border-radius: 8px;
+    margin: 15px 0px 15px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+
+
+}
+button{
+    color:white;
+    font-size: 15px;
+    text-align:center ;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: blue;
+    border-radius: 5px;
+    border-style: solid;
+
+
+
+}
+.btn{
+    text-align: center;
+    
+}
+.button:hover{
+    background-color: red;
+}

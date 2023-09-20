@@ -1,0 +1,66 @@
+h1{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+.map1{
+    border-radius: 8px;
+    align-items: center;
+    padding-left: 400px;
+
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+.input{
+    font-family: serif;
+    font-size: smaller;
+
+}
+h2{
+    text-align: center;
+}
+.cc1{
+    align-items: center;
+}
+form{
+    margin-left: 500px;
+
+}
+.opps{
+    align-items: center;
+    list-style-position: outside;
+    padding-left: 580px;
+}
+.input input{
+    width: 50%;
+    font-size: 16px;
+    border: 1px solid black;
+    padding: 10px 10px;
+    box-shadow: 1px;
+    border-radius: 8px;
+    margin: 15px 0px 15px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+select{
+    width: 50%;
+    font-size: 16px;
+    border: 1px solid black;
+    padding: 10px 10px;
+    box-shadow: 1px;
+    border-radius: 8px;
+    margin: 15px 0px 15px;
+    box-sizing: border-box;
+}
+.btn{
+   width: 15%;
+   height:50px ;
+   color: blue;
+   align-items: center;
+   margin-left: 150px;
+}
+    
+
